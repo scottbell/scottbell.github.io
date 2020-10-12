@@ -11,14 +11,14 @@ scott@scottbell.name
  * Technologies: Node.js, Amazon EC2, REST, Websockets, Eclipse/RCP, Git
 
 ## Experience
- ### Lead Software Engineer (August 2013 to Present) @ TRACLabs
-  I've led development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. I run biweekly planning meetings, write prototypes, estimate schedules, plan feature sets, and file for patents. I also coordinate with QA, DevOps, product management, and marketing.
+### Lead Software Engineer (August 2013 to Present) @ TRACLabs
+I've led development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. I run biweekly planning meetings, write prototypes, estimate schedules, plan feature sets, and file for patents. I also coordinate with QA, DevOps, product management, and marketing.
  
- ### Senior Software Engineer (August 2006 to 2013) @ TRACLabs and NASA Johnson Space Center
- I led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the tool allowed for complex ontology development by non-computer scientists. I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a high performance, easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
+### Senior Software Engineer (August 2006 to 2013) @ TRACLabs and NASA Johnson Space Center
+I led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the tool allowed for complex ontology development by non-computer scientists. I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a high performance, easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
 	
 ### Software Engineer (August 2002 to 2006) @ S&K Aerospace and NASA Johnson Space Center
- I was sole developer on a discrete event life support simulation for intelligent control algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation was used by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF
+I was sole developer on a discrete event life support simulation for intelligent control algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation was used by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF
 
 ### Computer Systems Specialist (January 2002 to August 2002) @ Laboratory for Intelligent Processes and Systems
 Developed and researched novel software engineering applications and techniques.
@@ -39,7 +39,7 @@ Assisted in development of distributed version control software. Worked on Postg
 Helped students with symbolic representation and design patterns. Lectured on Java programming fundamentals.
 
 ## Ongoing Personal Projects
-BioSim: The open source life support simulation (https://github.com/scottbell/biosim)
+[BioSim: The open source life support simulation](https://github.com/scottbell/biosim)
 
 ## Patents
 *System and method for executing operations specified in a procedure language* \
