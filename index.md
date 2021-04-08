@@ -55,7 +55,7 @@ Helped students with symbolic representation and design patterns. Lectured on Ja
 2001 B.S. Computer Science from the University of Texas at Austin
 
 ## Selected Publications
-* Stephen Hart*, James Kramer, Scott Bell, Debra Schreckenghost, Seth Gee, Ana Huamán, Robert R. Burridge "PHARAOH: Remotely Operating Robotic Systems using Human-Readable Procedures," in Proceedings of the 16th International Conference on Space Operations, 2021.
+* Stephen Hart, James Kramer, Scott Bell, Debra Schreckenghost, Seth Gee, Ana Huamán, Robert R. Burridge "PHARAOH: Remotely Operating Robotic Systems using Human-Readable Procedures," in Proceedings of the 16th International Conference on Space Operations, 2021.
 * David Kortenkamp, Scott Bell, and Debra Schreckenghost "Change Management and Verification of Electronic, Automated Procedures," in Proceedings of the 16th International Conference on Space Operations, 2021.
 * Jason Gabbert, Madeline Devereaux, Jeremy Owen, David Kortenkamp, Scott Bell, and Gilles Kbidy "Integrated Mission Operation Concepts for the Dream Chaser Cargo System," in Proceedings of the 15th International Conference on Space Operations, 2020.
 * Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost "PRONTOE: An Ontology Editor for Domain Experts," in the book Knowledge Discovery, Knowledge Engineering and Knowledge Management, pp 153-167, 2015.
