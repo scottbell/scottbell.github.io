@@ -1,5 +1,4 @@
-theme: jekyll-theme-minimal
-name: Scott Bell Homepage
-title: null
+theme: jekyll-theme-slate
+title: Scott Bell's Homepage
 github:
   is_project_page: false
