@@ -6,34 +6,39 @@ Houston, TX 77006 \
 scott@scottbell.name
 
 ## Computer Expertise
- * Operating Systems: Linux, MacOS, Windows
- * Languages (in order of familiarity): Javascript, Java, OWL, Bash, C/C++, SQL, Python
- * Technologies: Node.js, Amazon EC2, REST, Websockets, Eclipse/RCP, Git
+ * Languages (in order of familiarity): Javascript, Java, OWL, C/C++, SQL, Python
+ * Technologies: Node.js, AWS, REST
 
 ## Experience
 ### Lead Software Engineer (August 2013 to Present) @ TRACLabs
-I've led development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. I run biweekly planning meetings, write prototypes, estimate schedules, plan feature sets, and file for patents. I also coordinate with QA, DevOps, product management, and marketing.
+I've led development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA, and has thousands of simultaneous users. The application stack is Node.js, MySQL, a Vue.js fronted, and hosted on AWS & Azure.
+
+I manage the technical work of over a dozen frontend and backend developers, which includes stand ups, code reviews, hiring, and providing technical guidance and coaching to developers and engineers. I also create prototypes for new features, estimate schedules, plan feature sets and release, and file for patents. I'm responsible for locating and directing resolutions for critical issues related to the software system, and coordinate with QA, DevOps, product management, and marketing.
  
 ### Senior Software Engineer (August 2006 to 2013) @ TRACLabs and NASA Johnson Space Center
-I led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the tool allowed for complex ontology development by non-computer scientists. I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a high performance, easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
-	
+I led development on an integration between NASA's electronic procedure toolkit and NASA's Mission Control Technologies (MCT) software, both Java based. The goal of the project was to modernize NASA's Mission Control display software of telemetry, procedures, and commanding.
+
+I also led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the Java based tool allowed for complex ontology development by non-computer scientists.
+
+I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a Java based, high performance, and easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
+
 ### Software Engineer (August 2002 to 2006) @ S&K Aerospace and NASA Johnson Space Center
-I was sole developer on a discrete event life support simulation for intelligent control algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation was used by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF
+I was sole developer on a discrete event life support simulation for machine learning algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation is still used today by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF.
 
 ### Computer Systems Specialist (January 2002 to August 2002) @ Laboratory for Intelligent Processes and Systems
-Developed and researched novel software engineering applications and techniques.
+Developed and researched novel software engineering applications and techniques ranging from pandemic response, to multi-agent architectures.
 	
 ### Research Assistant (November 1996 to January 2002) @ Laboratory for Intelligent Processes and Systems
-Helped develop distributed applications using Java and CORBA. Wrote much of client/server interface to a remote object oriented database and the Swing front-end. Wrote XML reporting tool for distributed applications.
+Developed a software engineering research tool that connected software requirement to specific changes in code. The application used Java and CORBA, with a Swing frontend. 
 	
 ### Internship (Summer 1999) @ Amazon.com
-Wrote Java database extraction and testing tool for Oracle database. Assisted in porting enterprise applications from C++ to Java.
+Wrote Java database extraction and testing tool for Oracle database. Assisted in porting enterprise applications from C++ to Java that connected warehouses to suppliers.
 	
 ### Internship (Summer 1998) @ Sun Microsystems, Inc.
-Helped write test engine for the J2ME and assisted in SQE development. Developed web interface test reporting tool for browsers using Perl and CGI.
+Wrote test engine for Java ME and assisted in development.
 	
 ### Internship (Summer 1997) @ Applied Research Laboratories
-Assisted in development of distributed version control software. Worked on Postgres/Java bridge and GUI.
+Assisted in development of distributed version control software written in Java. Migrated backend database connection to Postgres.
 	
 ### Teaching Assistant (September 1997 to May 1999) @ University of Texas at Austin
 Helped students with symbolic representation and design patterns. Lectured on Java programming fundamentals.
@@ -49,7 +54,7 @@ Helped students with symbolic representation and design patterns. Lectured on Ja
 ## Education
 2001 B.S. Computer Science from the University of Texas at Austin
 
-## Publications
+## Selected Publications
 * Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost PRONTOE: An Ontology Editor for Domain Experts," in the book Knowledge Discovery, Knowledge Engineering and Knowledge Management, pp 153-167, 2015.
 * Mark Boddy, Martin Michalowski, Hazel Shackleton, Pete Bonasso and Scott Bell ConCEPT: Constraint-Checking Editor for Procedure Editing and Tracking," IJCAI Workshop on Artificial Intelligence in Space , 2015.
 * Scott Bell, Jim Carciofini, Mark Boddy, Pete Bonasso "Reasoner Performance on Ontologies for Operations," in Proceedings 7th International Conference on Knowledge Engineering and Ontology Development, 2014.
