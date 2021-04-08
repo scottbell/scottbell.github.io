@@ -55,8 +55,10 @@ Helped students with symbolic representation and design patterns. Lectured on Ja
 2001 B.S. Computer Science from the University of Texas at Austin
 
 ## Selected Publications
-* Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost PRONTOE: An Ontology Editor for Domain Experts," in the book Knowledge Discovery, Knowledge Engineering and Knowledge Management, pp 153-167, 2015.
-* Mark Boddy, Martin Michalowski, Hazel Shackleton, Pete Bonasso and Scott Bell ConCEPT: Constraint-Checking Editor for Procedure Editing and Tracking," IJCAI Workshop on Artificial Intelligence in Space , 2015.
+* David Kortenkamp, Scott Bell, and Debra Schreckenghost "Change Management and Verification of Electronic, Automated Procedures," in Proceedings of the 16th International Conference on Space Operations, 2021.
+* Jason Gabbert, Madeline Devereaux, Jeremy Owen, David Kortenkamp, Scott Bell, and Gilles Kbidy "Integrated Mission Operation Concepts for the Dream Chaser Cargo System," in Proceedings of the 15th International Conference on Space Operations, 2020.
+* Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost "PRONTOE: An Ontology Editor for Domain Experts," in the book Knowledge Discovery, Knowledge Engineering and Knowledge Management, pp 153-167, 2015.
+* Mark Boddy, Martin Michalowski, Hazel Shackleton, Pete Bonasso and Scott Bell "ConCEPT: Constraint-Checking Editor for Procedure Editing and Tracking," IJCAI Workshop on Artificial Intelligence in Space , 2015.
 * Scott Bell, Jim Carciofini, Mark Boddy, Pete Bonasso "Reasoner Performance on Ontologies for Operations," in Proceedings 7th International Conference on Knowledge Engineering and Ontology Development, 2014.
 * Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost "PRONTOE: A case study for developing ontologies for operations," in Proceedings 6th International Conference on Knowledge Engineering and Ontology Development, 2013.
 * Pete Bonasso, Mark Boddy, Dave Kortenkamp, Scott Bell "Ontological Models To Support Planning Operations," in Proceedings 8th International Workshop on Planning and Scheduling for Space, 2013.
