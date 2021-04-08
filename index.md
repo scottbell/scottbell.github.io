@@ -23,7 +23,7 @@ I also led development of PRONTOE, an ontology editor for domain experts. Create
 I also led development on a complex event processor for space system telemetry called DARE (Data Abstraction Runtime Engine). DARE was a Java based, high performance, and easily scaled system using ActiveMQ as its message bus. DARE was developed to help both humans, e.g., Mission Control, and robots reason on higher level state information instead of a cacophony of telemetry data.
 
 ### Software Engineer (August 2002 to 2006) @ S&K Aerospace and NASA Johnson Space Center
-I was sole developer on a discrete event life support simulation for machine learning algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation is open source and still used today by many research institutions and universities including: MIT, Rice, Vanderbilt, UIUC, UC, and the NSF.
+I was sole developer on a discrete event life support simulation for machine learning algorithms called BioSim. The simulation was a test bed for studies ranging from machine learning to reliability theory. The simulation is open source and still used today by many research institutions and universities including: MIT, Rice, Vanderbilt, The University of Illinois at Urbana–Champaign, The University of California, and the National Science Foundation.
 
 ### Computer Systems Specialist (January 2002 to August 2002) @ Laboratory for Intelligent Processes and Systems
 Developed and researched novel software engineering applications and techniques ranging from pandemic response, to multi-agent architectures.
