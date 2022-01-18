@@ -7,11 +7,14 @@ scott@scottbell.name
 
 ## Computer Expertise
  * Languages (in order of familiarity): Javascript, Java, OWL, C/C++, SQL, Python
- * Technologies: Node.js, AWS, REST, MySQL
+ * Technologies: Node.js, Vue.js, AWS
 
 ## Experience
-### Lead Software Engineer (August 2013 to Present) @ TRACLabs
-I lead development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA, and has thousands of simultaneous users. The application stack is Node.js, MySQL, a Vue.js frontend, and hosted on AWS & Azure. NASA used PRIDE during several ISS spacewalks. 
+### Senior Software Engineer (August 2021 to Present) @ TRACLabs and NASA Ames Space Center
+I'm part of the [OpenMCT](https://nasa.github.io/openmct/) team developing the next-generation mission control framework for the [NASA VIPER lunar rover](https://www.nasa.gov/viper) and [other space missions](https://nasa.github.io/openmct/whos-using-open-mct/). I've participated in frontend and backend software development, design, and prototyping. The application stack is a Vue.js frontend, with Node.js and CouchDB on the backend.
+
+### Lead Software Engineer (August 2013 to 2021) @ TRACLabs
+I lead development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. It has thousands of simultaneous users. The application stack is Node.js, MySQL, a Vue.js frontend, and hosted on AWS & Azure. NASA used PRIDE during several ISS spacewalks, for the X-57 project, and the VIPER moon rover.
 
 I manage the technical work of over a dozen frontend and backend developers, which includes stand ups, code reviews, hiring, and providing technical guidance and coaching to developers and engineers. I also create prototypes for new features, estimate schedules and costs, plan feature sets and releases, and file for patents. I'm responsible for locating and directing resolutions for critical issues related to the software system, and coordinate with QA, DevOps, product management, and marketing.
  
