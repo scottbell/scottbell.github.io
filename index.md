@@ -1,7 +1,7 @@
 
 # Scott Bell 
-1617 Bonnie Brae Street \
-Houston, TX 77006 \
+5202 Grand Lake St \
+Bellaire, TX 77401 \
 (832) 715-2652 \
 scott@scottbell.name
 
