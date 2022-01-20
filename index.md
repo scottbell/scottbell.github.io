@@ -11,7 +11,7 @@ scott@scottbell.name
 
 ## Experience
 ### Senior Software Engineer (August 2021 to Present) @ TRACLabs and NASA Ames Space Center
-I'm part of the [OpenMCT](https://nasa.github.io/openmct/) team developing the next-generation mission control framework for the [NASA VIPER lunar rover](https://www.nasa.gov/viper) and [other space missions](https://nasa.github.io/openmct/whos-using-open-mct/). I've participated in frontend and backend software development, design, and prototyping. The application stack is a Vue.js frontend, with Node.js and CouchDB on the backend.
+I'm part of the [OpenMCT](https://nasa.github.io/openmct/) team developing the next-generation mission control framework for the [NASA VIPER lunar rover](https://www.nasa.gov/viper) and [other space missions](https://nasa.github.io/openmct/whos-using-open-mct/). I work in frontend and backend software development, design, and prototyping. The application stack is a Vue.js frontend, with Node.js and CouchDB on the backend.
 
 ### Lead Software Engineer (August 2013 to 2021) @ TRACLabs
 I lead development on PRIDE, a software suite for automating standard operating procedures for both humans and robots. The software is in use 24/7 at Fortune 500 companies, commercial space operators, and at NASA. It has thousands of simultaneous users. The application stack is Node.js, MySQL, a Vue.js frontend, and hosted on AWS & Azure. NASA used PRIDE during several ISS spacewalks, for the X-57 project, and the VIPER moon rover.
