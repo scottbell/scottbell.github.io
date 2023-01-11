@@ -57,6 +57,10 @@ Helped students with symbolic representation and design patterns. Lectured on Ja
 2001 B.S. Computer Science from the University of Texas at Austin
 
 ## Publications
+* David Kortenkamp, Khalid Adil, Scott Bell, Jeffery Graham, Mary Beth Hudson, Debra Schreckenghost, and Neil Woodbury, Change Management and Verification of Electronic, Automated Procedures, in International Space Operations Conference 2021.
+* Jason Gabbert, Jeremy Owen, Madeline Devereaux, David Kortenkamp, Scott Bell, and Gilles Kbidy, Integrated Mission Operation Concepts for the Dream Chaser Spacecraft, in International Space Operations Conference 2020 (postponed to 2021).
+* Debra Schreckenghost, Scott Bell, David Kortenkamp, and James Kramer, Procedure Automation: Sharing Work with Users, in AAAI Spring Symposium Designing the User Experience of Artificial Intelligence 2018.
+* Daniel Bryce, Pete Bonasso, Khalid Adil, Scott Bell, and David Kortenkamp, In-Situ Domain Modeling with Fact Routes, in International Conference on Automated Planning and Scheduling Workshop on User Interfaces and Scheduling and Planning 2017.
 * Scott Bell, Pete Bonasso, Mark Boddy, David Kortenkamp, and Debra Schreckenghost PRONTOE: An Ontology Editor for Domain Experts," in the book Knowledge Discovery, Knowledge Engineering and Knowledge Management, pp 153-167, 2015.
 * Mark Boddy, Martin Michalowski, Hazel Shackleton, Pete Bonasso and Scott Bell ConCEPT: Constraint-Checking Editor for Procedure Editing and Tracking," IJCAI Workshop on Artificial Intelligence in Space , 2015.
 * Scott Bell, Jim Carciofini, Mark Boddy, Pete Bonasso "Reasoner Performance on Ontologies for Operations," in Proceedings 7th International Conference on Knowledge Engineering and Ontology Development, 2014.
