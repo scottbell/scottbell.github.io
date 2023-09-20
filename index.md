@@ -12,7 +12,7 @@ scott@scottbell.name
  * Technologies: Node.js, Vue.js, AWS
 
 ## Experience
-### Principal Software Engineer (August 2021 to Present) @ TRACLabs and NASA Ames Space Center
+### Senior Software Engineer (August 2021 to Present) @ TRACLabs and NASA Ames Space Center
 I'm part of the [OpenMCT](https://nasa.github.io/openmct/) team developing the next-generation mission control framework for the [NASA VIPER lunar rover](https://www.nasa.gov/viper) and [other space missions](https://nasa.github.io/openmct/whos-using-open-mct/). I work in frontend and backend software development, design, and prototyping. The application stack is a Vue.js frontend, with Node.js and CouchDB on the backend.
 
 ### Staff Software Engineer (August 2013 to 2021) @ TRACLabs
@@ -20,7 +20,7 @@ I lead development on PRIDE, a software suite for automating standard operating 
 
 I manage the technical work of over a dozen frontend and backend developers, which includes stand ups, code reviews, hiring, and providing technical guidance and coaching to developers and engineers. I also create prototypes for new features, estimate schedules and costs, plan feature sets and releases, and file for patents. I'm responsible for locating and directing resolutions for critical issues related to the software system, and coordinate with QA, DevOps, product management, and marketing.
 
-### Senior Software Engineer (August 2010 to 2013) @ TRACLabs
+### Software Engineer (August 2010 to 2013) @ TRACLabs
 I led development on an integration between NASA's electronic procedure toolkit and NASA's Mission Control Technologies (MCT) software, both Java-based. The goal of the project was to modernize NASA's Mission Control display software of telemetry, procedures, and commanding.
 
 I also led development of PRONTOE, an ontology editor for domain experts. Created in concert with NASA, the Java based tool allowed for complex ontology development by non-computer scientists. PRONTOE was used for training astronaut candidates at NASA.
