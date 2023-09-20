@@ -8,7 +8,7 @@ Switzerland \
 scott@scottbell.name
 
 ## Computer Expertise
- * Languages (in order of familiarity): Javascript, Java, OWL, C/C++, SQL, Python
+ * Languages (in order of familiarity): Javascript, Java, OWL, Python, C/C++, SQL
  * Technologies: Node.js, Vue.js, AWS
 
 ## Experience
