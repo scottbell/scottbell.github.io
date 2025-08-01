@@ -28,14 +28,14 @@ Senior Software Engineer with over 20 years of experience designing and building
 
 ## Experience
 
-### Senior Software Engineer @ TRACLabs (Remote from Geneva) | August 2021 - Present
-- **NASA Open MCT:** Core contributor to NASA's next-generation mission control framework.
+### Senior Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - Present
+- **NASA Open MCT:** Core contributor to NASA's next-generation mission control framework for the VIPER Lunar Rover.
 - **BioSim Modernization:** Led the migration of a legacy life support simulation to Java 21, introducing REST/WebSocket APIs and Docker for modern deployment and integration.
 - **ADAPT AI System:** Developed a novel AI-powered decision support system with a Vue.js frontend and a Python/Quart backend, utilizing XGBoost and SHAP for explainable AI.
 - **PRL Translator:** Created an LLM-based application to automatically convert natural language documents into structured PRL (Procedure Representation Language) XML, reducing procedure author time from hours to minutes.
 - **ROS 2 Contributions:** Resolved critical type-handling bugs in the ROS 2 ecosystem (rosbridge_suite, roslibjs), improving reliability for the wider robotics community.
 
-### Senior Software Engineer @ TRACLabs | August 2013 - 2021
+### Senior Software Engineer (Technical Lead) @ TRACLabs | August 2013 - 2021
 Led the development of PRIDE, a software suite for automating standard operating procedures, used 24/7 by Fortune 500 companies (e.g., Dow, Baker Hughes), commercial space operators (Sierra Space), and NASA.
 - **Tech Stack:** Node.js, MySQL, Vue.js, hosted on AWS & Azure.
 - **Leadership:** Managed and mentored a team of over 12 frontend and backend developers, driving project execution through code reviews, technical guidance, and agile practices.
