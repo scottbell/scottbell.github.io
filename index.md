@@ -3,7 +3,7 @@
 
 Rue de Genève 76B, Chêne-Bourg, GE 1225, Switzerland  
 +1 (832) 715-2652 | +41 76 230 77 21  
-scott@scottbell.name | [github.com/scottbell](https://github.com/scottbell) | [linkedin.com/in/scottbell](https://linkedin.com/in/scottbell)  
+scott@scottbell.name | [github.com/scottbell](https://github.com/scottbell) | [linkedin.com/in/scott-bell-a84b184](https://linkedin.com/in/scott-bell-a84b184)  
 **Work Authorization:** US Citizen; Swiss permanent resident (Ci permit)
 
 ---
