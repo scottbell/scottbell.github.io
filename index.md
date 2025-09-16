@@ -28,7 +28,7 @@ Senior Software Engineer with over 20 years of experience designing and building
 
 ## Experience
 
-### Senior Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - Present
+### Staff Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - Present
 - **NASA Open MCT:** Core contributor to NASA's next-generation mission control framework for the VIPER Lunar Rover.
 - **BioSim Modernization:** Led the migration of a legacy life support simulation to Java 21, introducing REST/WebSocket APIs and Docker for modern deployment and integration.
 - **ADAPT AI System:** Developed a novel AI-powered decision support system with a Vue.js frontend and a Python/Quart backend, utilizing XGBoost and SHAP for explainable AI.
