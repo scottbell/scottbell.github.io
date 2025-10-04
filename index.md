@@ -1,5 +1,5 @@
 # Scott Bell
-**Senior Software Engineer**
+**Staff Software Engineer**
 
 Rue de Genève 76B, Chêne-Bourg, GE 1225, Switzerland  
 +1 (832) 715-2652 | +41 76 230 77 21  
@@ -22,13 +22,16 @@ Senior Software Engineer with over 20 years of experience designing and building
 **Backend:** Node.js, Quart (Python framework), REST APIs, WebSockets  
 **Robotics:** ROS/ROS 2, rosbridge_suite, roslibjs  
 **DevOps:** Docker, AWS, Azure, Maven, npm  
-**Languages:** English (Native), French (B1)
+**Spoken Languages:** English (Native), French (B1)
 
 ---
 
 ## Experience
 
-### Staff Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - Present
+### Staff Software Engineer @ Sonar | September 2025 - Present
+Backend Java Engineer focused on integrations.
+
+### Staff Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - September 2025
 - **NASA Open MCT:** Core contributor to NASA's next-generation mission control framework for the VIPER Lunar Rover.
 - **BioSim Modernization:** Led the migration of a legacy life support simulation to Java 21, introducing REST/WebSocket APIs and Docker for modern deployment and integration.
 - **ADAPT AI System:** Developed a novel AI-powered decision support system with a Vue.js frontend and a Python/Quart backend, utilizing XGBoost and SHAP for explainable AI.
