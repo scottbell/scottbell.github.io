@@ -29,7 +29,6 @@ Senior Software Engineer with over 20 years of experience designing and building
 ## Experience
 
 ### Staff Software Engineer @ Sonar | September 2025 - Present
-Backend Java Engineer focused on integrations.
 
 ### Staff Software Engineer @ TRACLabs (Individual Contributor) | August 2021 - September 2025
 - **NASA Open MCT:** Core contributor to NASA's next-generation mission control framework for the VIPER Lunar Rover.
